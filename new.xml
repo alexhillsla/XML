@@ -1,5 +1,5 @@
-<FirstName: Alex>
-<LastName: Hills>
-<Age: 34>
-<Pets: 2>
-<Salary: $100,000>
+<FirstName>Alex</FirstName>
+<LastName>Hills</LastName>
+<Age>34</Age>
+<Pets>2</Pets>
+<Salary>$100,000</Salary>
