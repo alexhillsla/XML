@@ -1,5 +1,8 @@
-<FirstName>Alex</FirstName>
-<LastName>Hills</LastName>
-<Age>34</Age>
-<Pets>2</Pets>
-<Salary>$100,000</Salary>
+<?xml version="1.0" encoding="UTF-8"?>
+<myInfo>
+ <FirstName>Alex</FirstName>
+ <LastName>Hills</LastName>
+ <Age>34</Age>
+ <Pets>2</Pets>
+ <Salary>$100,000</Salary>
+</myInfo>
